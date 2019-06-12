@@ -14,8 +14,6 @@
     "default_title": "Remove Answers"
   },
   "permissions": [
-    "https://*/*",
-    "http://*/*",
-    "tabs"
+	"activeTab"
   ]
 }
